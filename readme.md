@@ -1,4 +1,5 @@
-Java, Maven, TestNG 
+
+## Simple example of Testing Framework using Java, Maven, TestNg.
 ### How to run
 ```
 $ mvn -Dgroups=Smoke,Regression test
