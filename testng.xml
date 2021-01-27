@@ -1,5 +1,5 @@
-<suite name="Vladimir suite" verbose="1">
-  <test name="Slickdeals">
+<suite name="AnyNamesuite" verbose="1">
+  <test name="AnyNameTest">
     <classes>
       <class name="src.SimpleTest.SimpleTest" />
     </classes>
