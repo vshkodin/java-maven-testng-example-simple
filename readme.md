@@ -1,5 +1,5 @@
 
-## Simple example of Testing Framework using Java, Maven, TestNg.
+## Simple example of Testing Framework using Java, Maven, and TestNg.
 #### Clone project:
 ```
 git clone https://github.com/vsshk/java-maven-testng-example-simple.git
